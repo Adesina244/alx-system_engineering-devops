@@ -1,1 +1,1 @@
-navigate to home directory
+Navigate to home directory
