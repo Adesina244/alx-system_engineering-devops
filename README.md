@@ -1,1 +1,1 @@
-script that print absolute current working directory
+no place like home
